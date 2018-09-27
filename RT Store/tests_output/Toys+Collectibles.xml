@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="Toys+Collectibles"
+    errors="1" failures="0" hostname="" id="" package="Toys+Collectibles" skipped="0"
+    tests="1" time="0.01100" timestamp="Wed, 26 Sep 2018 19:07:03 GMT">
+  
+    <testcase name="Navigate Through Toys + Collectibles" classname="Toys+Collectibles" time="0.01100" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Toys+ Collectibles / Navigate Through Toys + Collectibles]:
+
+  Error: NewToys) was not found in &#34;RTPageObject&#34;. Available elements: Search,SearchBar,SearchValue,Header,HeaderLogo,Item1,MSize,Quantity,AddToCart,DirectCart,CartQuantity,RemoveFromCart,ContinueShopping,Cart,ViewCart,ActiveTab,Accessories,Hats,Bags,SmallAccessories,Books,Socks,NewAccessories,Apparel,Shirts,BaseballJerseys,Outerwear,Bottoms,Pajamas,WomenApparel,BrandCollections,GeoffRamsey,AchievementHunter,Funhaus,RWBY,CowChop,Cosplay,Animation,RoosterTeeth,SugarPine,LetsPlay,Dorm,HomeDecor,Drinkware,Media,Toys,NewTab,Clearance,BrandCollectionsActive,ApparelActive,AccessoriesActive,DormActive,ToysActive,NewTabActive,ClearanceActive,NewAchievementHunter,NewFunhaus,NewRWBY,NewCowChop,NewRoosterTeeth,NewCampCamp,NewRvB,Search1,Password,Username,Login,Submit,Head,Figures,Plush,TradingCards,Games,NewToys
+    at getElement (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\lib\page-object\command-wrapper.js:13:13)
+    at Page.click (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\lib\page-object\command-wrapper.js:81:32)
+    at Object.Navigate Through Toys + Collectibles (D:\DevMtn\RT Store\Tests\Toys+Collectibles.js:29:18)
+    at Module.call (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

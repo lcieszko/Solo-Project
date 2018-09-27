@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="BrandCollections"
+    errors="0" failures="0" hostname="" id="" package="BrandCollections" skipped="0"
+    tests="2" time="420.5" timestamp="Wed, 26 Sep 2018 19:57:54 GMT">
+  
+    <testcase name="SignIn" classname="BrandCollections" time="34.61" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Navigate Through Brand Collections" classname="BrandCollections" time="385.9" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

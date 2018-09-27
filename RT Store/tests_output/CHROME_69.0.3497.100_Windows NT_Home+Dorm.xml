@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="Home+Dorm"
+    errors="0" failures="0" hostname="" id="" package="Home+Dorm" skipped="0"
+    tests="2" time="70.64" timestamp="Wed, 26 Sep 2018 20:06:01 GMT">
+  
+    <testcase name="SignIn" classname="Home+Dorm" time="19.64" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Navigate Through Home + Dorm" classname="Home+Dorm" time="51.00" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

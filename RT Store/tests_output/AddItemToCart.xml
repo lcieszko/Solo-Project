@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="2">
+
+  <testsuite name="AddItemToCart"
+    errors="1" failures="0" hostname="" id="" package="AddItemToCart" skipped="1"
+    tests="2" time="0.01000" timestamp="Tue, 25 Sep 2018 21:34:18 GMT">
+  
+    <testcase name="Add then go right to cart" classname="AddItemToCart" time="0.01000" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Add Item To Cart / Add then go right to cart]:
+
+  Error: SearchValuee was not found in &#34;RTPageObject&#34;. Available elements: Search,SearchBar,SearchValue,Header,Item1,MSize,Quantity,AddToCart,DirectCart,CartQuantity,RemoveFromCart,ContinueShopping,Cart,ViewCart
+    at getElement (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\lib\page-object\command-wrapper.js:13:13)
+    at Page.click (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\lib\page-object\command-wrapper.js:81:32)
+    at Object.Add then go right to cart (D:\DevMtn\RT Store\Tests\AddItemToCart.js:16:14)
+    at Module.call (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    </system-err>
+  
+
+  
+    
+    <testcase
+      name="Add then continue then go to cart" classname="AddItemToCart">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="MainList"
+    errors="1" failures="0" hostname="" id="" package="MainList" skipped="0"
+    tests="1" time="0.007000" timestamp="Mon, 24 Sep 2018 19:41:46 GMT">
+  
+    <testcase name="Navigate Through Main List" classname="MainList" time="0.007000" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Main List / Navigate Through Main List]:
+
+  TypeError: browser.expect.element(...).to.be.present.before(...).click is not a function
+    at Object.Navigate Through Main List (C:\Users\ciesz\Desktop\DevMtn\RT Store\Tests\MainList.js:15:18)
+    at Module.call (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

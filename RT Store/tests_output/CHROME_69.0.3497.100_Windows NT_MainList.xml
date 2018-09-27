@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="MainList"
+    errors="0" failures="0" hostname="" id="" package="MainList" skipped="0"
+    tests="2" time="226.3" timestamp="Wed, 26 Sep 2018 20:07:12 GMT">
+  
+    <testcase name="SignIn" classname="MainList" time="22.36" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Navigate Through Main List" classname="MainList" time="203.9" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

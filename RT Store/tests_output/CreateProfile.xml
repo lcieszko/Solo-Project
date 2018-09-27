@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="CreateProfile"
+    errors="1" failures="0" hostname="" id="" package="CreateProfile" skipped="0"
+    tests="1" time="0.006000" timestamp="Sun, 23 Sep 2018 21:12:09 GMT">
+  
+    <testcase name="Create Account" classname="CreateProfile" time="0.006000" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Create Profile / Create Account]:
+
+  TypeError: browser.click(...).expect.element(...).to.be.present.before(...).useXpath is not a function
+    at Object.Create Account (C:\Users\ciesz\Desktop\DevMtn\RT Store\Tests\CreateProfile.js:24:18)
+    at Module.call (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\ciesz\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

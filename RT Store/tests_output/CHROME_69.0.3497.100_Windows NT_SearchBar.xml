@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="SearchBar"
+    errors="0" failures="0" hostname="" id="" package="SearchBar" skipped="0"
+    tests="2" time="54.31" timestamp="Wed, 26 Sep 2018 20:13:12 GMT">
+  
+    <testcase name="SignIn" classname="SearchBar" time="27.50" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Searh for Red vs Blue" classname="SearchBar" time="26.80" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

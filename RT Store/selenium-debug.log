@@ -1,0 +1,124 @@
+13:50:12.078 INFO [GridLauncherV3.launch] - Selenium build info: version: '3.14.0', revision: 'aacccce0'
+13:50:12.082 INFO [GridLauncherV3$1.launch] - Launching a standalone Selenium Server on port 4445
+2018-09-26 13:50:12.206:INFO::main: Logging initialized @357ms to org.seleniumhq.jetty9.util.log.StdErrLog
+13:50:12.406 INFO [SeleniumServer.boot] - Selenium Server is up and running on port 4445
+13:50:12.719 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "name": "Accessories"
+}
+13:50:12.721 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 15972
+Only local connections are allowed.
+13:50:14.970 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+13:50:15.140 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session fee70a6ae114bd2997f35148ae4ed70f (org.openqa.selenium.chrome.ChromeDriverService)
+13:52:22.212 INFO [ActiveSessions$1.onStop] - Removing session fee70a6ae114bd2997f35148ae4ed70f (org.openqa.selenium.chrome.ChromeDriverService)
+13:52:22.228 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "name": "Add Item To Cart"
+}
+13:52:22.228 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 17026
+Only local connections are allowed.
+13:52:24.264 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+13:52:24.294 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 24ea6054bf48c677c46e1fe4d1d37484 (org.openqa.selenium.chrome.ChromeDriverService)
+13:53:42.824 INFO [ActiveSessions$1.onStop] - Removing session 24ea6054bf48c677c46e1fe4d1d37484 (org.openqa.selenium.chrome.ChromeDriverService)
+13:53:42.839 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "name": "Apparel"
+}
+13:53:42.839 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 11956
+Only local connections are allowed.
+13:53:44.905 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+13:53:44.927 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session de842405fa2c2aa8aae70949d5a6e129 (org.openqa.selenium.chrome.ChromeDriverService)
+13:57:54.939 INFO [ActiveSessions$1.onStop] - Removing session de842405fa2c2aa8aae70949d5a6e129 (org.openqa.selenium.chrome.ChromeDriverService)
+13:57:54.955 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "name": "Brand Collections"
+}
+13:57:54.955 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 31258
+Only local connections are allowed.
+13:57:57.016 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+13:57:57.039 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session b8e747bd6316dd633f7987badcda1c4f (org.openqa.selenium.chrome.ChromeDriverService)
+14:04:55.606 INFO [ActiveSessions$1.onStop] - Removing session b8e747bd6316dd633f7987badcda1c4f (org.openqa.selenium.chrome.ChromeDriverService)
+14:04:55.620 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "name": "Delete Cart"
+}
+14:04:55.620 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 40334
+Only local connections are allowed.
+14:04:57.657 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+14:04:57.672 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 0729ab7e2b1b0df81758f7629336cac2 (org.openqa.selenium.chrome.ChromeDriverService)
+14:06:01.464 INFO [ActiveSessions$1.onStop] - Removing session 0729ab7e2b1b0df81758f7629336cac2 (org.openqa.selenium.chrome.ChromeDriverService)
+14:06:01.478 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "name": "Home+ Dorm"
+}
+14:06:01.478 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 32862
+Only local connections are allowed.
+14:06:03.522 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+14:06:03.540 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 3fdfbfd968a68616da099d1557d32fe6 (org.openqa.selenium.chrome.ChromeDriverService)
+14:07:12.248 INFO [ActiveSessions$1.onStop] - Removing session 3fdfbfd968a68616da099d1557d32fe6 (org.openqa.selenium.chrome.ChromeDriverService)
+14:07:12.262 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "name": "Main List"
+}
+14:07:12.263 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 5126
+Only local connections are allowed.
+14:07:14.285 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+14:07:14.297 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 13a5bb3dcfabf3d6876b3645eb098997 (org.openqa.selenium.chrome.ChromeDriverService)
+14:10:58.666 INFO [ActiveSessions$1.onStop] - Removing session 13a5bb3dcfabf3d6876b3645eb098997 (org.openqa.selenium.chrome.ChromeDriverService)
+14:10:58.682 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "name": "New"
+}
+14:10:58.682 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 37458
+Only local connections are allowed.
+14:11:00.753 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+14:11:00.774 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 820137c1484e34d1ebe101ab048821a8 (org.openqa.selenium.chrome.ChromeDriverService)
+14:13:12.395 INFO [ActiveSessions$1.onStop] - Removing session 820137c1484e34d1ebe101ab048821a8 (org.openqa.selenium.chrome.ChromeDriverService)
+14:13:12.408 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "name": "Search Bar"
+}
+14:13:12.409 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 1143
+Only local connections are allowed.
+14:13:14.443 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+14:13:14.455 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 1d2f3a4487f627675d47f3089e0e2a6d (org.openqa.selenium.chrome.ChromeDriverService)
+14:14:06.843 INFO [ActiveSessions$1.onStop] - Removing session 1d2f3a4487f627675d47f3089e0e2a6d (org.openqa.selenium.chrome.ChromeDriverService)
+14:14:06.857 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "name": "Toys+ Collectibles"
+}
+14:14:06.857 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 20839
+Only local connections are allowed.
+14:14:08.898 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+14:14:08.910 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 4b3a91e5e62d9cbee55528ec257f24bc (org.openqa.selenium.chrome.ChromeDriverService)
+14:15:05.665 INFO [ActiveSessions$1.onStop] - Removing session 4b3a91e5e62d9cbee55528ec257f24bc (org.openqa.selenium.chrome.ChromeDriverService)
